@@ -1,8 +1,11 @@
 # reactStart-v2
+
 Boilerplate for React apps
 
 ## Install
+
 create .babelrc in root folder with contents:
+
 ```
 {
   "presets": [
@@ -19,6 +22,7 @@ create .babelrc in root folder with contents:
 ```
 
 included loaders:
+
 ```
 babel
 sass
